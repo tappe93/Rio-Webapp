@@ -1,0 +1,70 @@
+body {
+    background-color: #1c1e21;
+    color: #e4e4e4;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h1, h2 {
+    color: #ffcc00;
+  }
+  
+  table {
+    background-color: #2a2d32;
+    color: #e4e4e4;
+  }
+  
+  .table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #2f3237;
+  }
+  
+  .btn-primary {
+    background-color: #ffcc00;
+    border: none;
+  }
+  
+  .form-control {
+    background-color: #2a2d32;
+    color: #e4e4e4;
+    border: 1px solid #444;
+  }
+  
+  .form-control:focus {
+    background-color: #2f3237;
+    border-color: #ffcc00;
+    box-shadow: none;
+  }
+  
+  .alert-danger {
+    background-color: #ff4d4d;
+    color: #fff;
+    border: none;
+  }
+
+  .form-check-input {
+  background-color: #2a2d32;
+  border-color: #444;
+}
+
+.form-check-input:checked {
+  background-color: #ffcc00;
+  border-color: #ffcc00;
+}
+
+.form-check-label {
+  color: #e4e4e4;
+}
+
+.form-check-input {
+    background-color: #2a2d32;
+    border-color: #444;
+  }
+  
+  .form-check-input:checked {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+  }
+  
+  .form-check-label {
+    color: #e4e4e4;
+  }
+  
